@@ -1,5 +1,5 @@
 # CI2026_lab3
-This is the repo for lab 3 of Computation Intelligence course 2026/2027
+This is the repo for lab 3 of Computation Intelligence course 2026/2027 Politecnico di Torino
 
 there are N children, each child has C Boolean characteristics, such as tall, thin, etc.
 the difference between two children is the number of characteristics on which they differ.
